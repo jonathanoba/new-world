@@ -1,0 +1,25 @@
+.ui.borderless.topmenu.menu.fixed {
+  background-color: #272624;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  border: none;
+  box-shadow: none;
+  background-color: #272624;
+}
+
+.ui.middle.segment {
+  border: none;
+  box-shadow: none;
+  background-color: #272624;
+  padding-bottom: 50px;
+}
+
+.image-background {
+  background: url('https://images.ctfassets.net/j95d1p8hsuun/3z5PPXEPxZd7RJPdcq4bXf/cd5fe5c002f262d9006cc46866f31898/gallery12.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 700px;
+  color:white;
+}
